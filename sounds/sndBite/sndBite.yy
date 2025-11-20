@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndBite",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.7112245,
+  "exportDir":"",
+  "name":"sndBite",
+  "parent":{
+    "name":"sound_effects",
+    "path":"folders/Sounds/sound_effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndBite.wav",
+  "volume":1.0,
+}

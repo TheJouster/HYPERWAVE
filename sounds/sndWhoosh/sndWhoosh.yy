@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndWhoosh",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.4261678,
+  "exportDir":"",
+  "name":"sndWhoosh",
+  "parent":{
+    "name":"sound_effects",
+    "path":"folders/Sounds/sound_effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndWhoosh.ogg",
+  "volume":0.5,
+}

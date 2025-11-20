@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndPunch",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.6735828,
+  "exportDir":"",
+  "name":"sndPunch",
+  "parent":{
+    "name":"sound_effects",
+    "path":"folders/Sounds/sound_effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndPunch.ogg",
+  "volume":1.0,
+}
